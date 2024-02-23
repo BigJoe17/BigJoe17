@@ -38,9 +38,24 @@ I am a passionate computer engineering student with a focus on building innovati
 - **Tools & Technologies:** Git, GitHub, VS Code, Firebase, Heroku
 ---
 
+#### 🎯 Goals:
+- To become a proficient developer in the next 4 months.
+- To build a revolutionary application that will change how we do things, especially in Africa.
+
+
+
 [![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigJoe17)](https://github.com/BigJoe17/github-readme-stats)
 
-### GitHub Profile Summary
+
+#### 🏆 Achievements:
+- Ran an agency that helps students study abroad.
+- Published several articles on tech and entrepreneurship.
+
+
+
+#### 🌟 Interests:
+- Mathematics, Physics, Computer Science, History, Literature
+- Tech founders, Entrepreneurship, Christian faith
 
 
 
@@ -48,17 +63,8 @@ I am a passionate computer engineering student with a focus on building innovati
 
 
 <!--
-#### 🎯 Goals:
-- To become a proficient developer in the next 4 months.
-- To build a revolutionary application that will change how we do things, especially in Africa.
 
-#### 🌟 Interests:
-- Mathematics, Physics, Computer Science, History, Literature
-- Tech founders, Entrepreneurship, Christian faith
 
-#### 🏆 Achievements:
-- Ran an agency that helps students study abroad.
-- Published several articles on tech and entrepreneurship.
 
 #### ✉️ Contact Me:
 - Email: [your-email@example.com](mailto:your-email@example.com)
