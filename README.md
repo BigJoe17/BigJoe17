@@ -1,6 +1,6 @@
 
 
-<h2>About Me 😉</h2>
+<h2> 👋H I'm Joshua 😉</h2>
 <p>
 I am a passionate computer engineering student with a focus on building innovative web and mobile applications. I am particularly interested in using AI tools and technologies to solve real-world problems. My goal is to become a proficient developer and make a positive impact in the tech community.
 </p>
@@ -18,6 +18,14 @@ I am a passionate computer engineering student with a focus on building innovati
 - **E-commerce Website:** Developed a full-stack e-commerce website using MERN stack.
 - **AI Chatbot:** Created an AI chatbot using TensorFlow for natural language processing.
 
+##  💻 Tech Stacks
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 #### 🚀 Skills:
 - **Programming Languages:** JavaScript, Python, Java, C++
