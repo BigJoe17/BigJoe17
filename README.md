@@ -1,6 +1,6 @@
 
 
-<h2> 👋Hey there I'm Joshua 😉</h2>
+<h2> 👋Hey I'm Joshua 😉</h2>
 <p>
 I am a passionate computer engineering student with a focus on building innovative web and mobile applications. I am particularly interested in using AI tools and technologies to solve real-world problems. My goal is to become a proficient developer and make a positive impact in the tech community.
 </p>
@@ -56,11 +56,11 @@ I am a passionate computer engineering student with a focus on building innovati
 #### 🌟 Interests:
 - Mathematics, Physics, Computer Science, History, Literature
 - Tech founders, Entrepreneurship, Christian faith
-https://icongr.am/octicons/arrow-down.svg?size=80&color=862a13
+
 
 #### ✉️ Contact Me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+
+- LinkedIn: [Joshua Olugotun ](https://www.linkedin.com/in/joshua-olugotun)
 
 
 
