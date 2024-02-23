@@ -56,6 +56,11 @@ I am a passionate computer engineering student with a focus on building innovati
 #### 🌟 Interests:
 - Mathematics, Physics, Computer Science, History, Literature
 - Tech founders, Entrepreneurship, Christian faith
+https://icongr.am/octicons/arrow-down.svg?size=80&color=862a13
+
+#### ✉️ Contact Me:
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 
 
@@ -66,9 +71,6 @@ I am a passionate computer engineering student with a focus on building innovati
 
 
 
-#### ✉️ Contact Me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 ---
 
