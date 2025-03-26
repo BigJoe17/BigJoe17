@@ -5,7 +5,7 @@
 </p>
 
 ## WORK
-- 🔭 I’m currently a microservices and Distributed systems
+- 🔭 I’m currently building  microservices and Distributed systems
 - 🌱 I’m currently learning ReactNative for mobile Application 
 - 💬 Ask me about Reactjs, nodejs and mongodb
 - 📝 I regularly write articles on  [Tech and Educational Opportunities abroad](https://medium.com/@joshuaolugotun17)
