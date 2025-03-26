@@ -1,13 +1,12 @@
 
 
 <h2> 👋Hey I'm Joshua 😉</h2>
-<p>
-I am a passionate computer engineering student with a focus on building innovative web and mobile applications. I am particularly interested in using AI tools and technologies to solve real-world problems. My goal is to become a proficient developer and make a positive impact in the tech community.
+<p>I'm a passionate computer engineering student with a focus on creating innovative AI and Web3 applications. My main interest lies in leveraging AI tools and technologies to address real-world challenges. My ultimate goal is to use my development skills to make a meaningful impact in the tech community.
 </p>
 
 ## WORK
-- 🔭 I’m currently working on chatting based Application 
-- 🌱 I’m currently learning flutter for mobile Application 
+- 🔭 I’m currently a microservices and Distributed systems
+- 🌱 I’m currently learning ReactNative for mobile Application 
 - 💬 Ask me about Reactjs, nodejs and mongodb
 - 📝 I regularly write articles on  [Tech and Educational Opportunities abroad](https://medium.com/@joshuaolugotun17)
 - 📫 How to reach me joshuaolugotun17@gmail.com
@@ -17,6 +16,8 @@ I am a passionate computer engineering student with a focus on building innovati
 - **News Aggregator App:** Built a mobile app using Flutter that aggregates news from various sources.
 - **E-commerce Website:** Developed a full-stack e-commerce website using MERN stack.
 - **AI Chatbot:** Created an AI chatbot using TensorFlow for natural language processing.
+- **Joom:**: A video conferencing app like Zoom
+- **AI interview agent:** Built an Ai Interview agent that help candidates and software Engineer prepare for coding interview with an AI agent.
 
 ##  💻 Tech Stacks
   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -31,15 +32,15 @@ I am a passionate computer engineering student with a focus on building innovati
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### 🚀 Skills:
-- **Programming Languages:** JavaScript, Python, Java, C++
+- **Programming Languages:** JavaScript, Python, Java, Rust,
 - **Web Development:** HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB
-- **Mobile App Development:** Flutter
-- **AI/ML:** TensorFlow, Scikit-learn
-- **Tools & Technologies:** Git, GitHub, VS Code, Firebase, Heroku
+- **Mobile App Development:** ReactNative
+- **AI/ML:** TensorFlow, Scikit-learn, opencv
+- **Tools & Technologies:** Git, GitHub, VS Code, Firebase, Heroku, Docker
 ---
 
 #### 🎯 Goals:
-- To become a proficient developer in the next 4 months.
+- To Land  a senior  developer role  in the next 4 months.
 - To build a revolutionary application that will change how we do things, especially in Africa.
 
 
@@ -50,6 +51,7 @@ I am a passionate computer engineering student with a focus on building innovati
 #### 🏆 Achievements:
 - Ran an agency that helps students study abroad.
 - Published several articles on tech and entrepreneurship.
+- Led A tech Community called TechBridge
 
 
 
